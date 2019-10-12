@@ -1,0 +1,7 @@
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+G:\08test\C#Tes\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
